@@ -1,4 +1,3 @@
-
 import random
 import uuid
 from datetime import datetime, timedelta
@@ -137,3 +136,4 @@ def generate_alerts(n=42, seed=7):
         })
     alerts.sort(key=lambda a: a["timestamp"], reverse=True)
     return alerts
+
