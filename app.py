@@ -1,13 +1,3 @@
-"""
-MITRE ATT&CK Threat Hunting Dashboard
---------------------------------------
-A Streamlit application that lets a SOC analyst walk an alert through the
-full investigation pipeline:
-
-    Alert -> IOC -> Technique -> MITRE ATT&CK -> Affected Host -> Timeline -> Recommended Investigation
-
-Run with:  streamlit run app.py
-"""
 import streamlit as st
 import pandas as pd
 import plotly.express as px
