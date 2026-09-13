@@ -1,9 +1,3 @@
-"""
-db.py
-Thin SQLite persistence layer so alert status/notes made by the analyst
-survive Streamlit re-runs and app restarts. Seeds itself with synthetic
-sample data on first run.
-"""
 import sqlite3
 import pandas as pd
 from sample_data import generate_alerts
