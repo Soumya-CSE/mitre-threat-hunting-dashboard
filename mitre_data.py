@@ -1,11 +1,3 @@
-"""
-mitre_data.py
-Curated MITRE ATT&CK (Enterprise) technique knowledge base used to enrich
-alerts with tactic/technique context, detection guidance and recommended
-investigation steps. IDs, names and tactics reflect the public MITRE
-ATT&CK framework (https://attack.mitre.org).
-"""
-
 TACTICS = [
     "Initial Access", "Execution", "Persistence", "Privilege Escalation",
     "Defense Evasion", "Credential Access", "Discovery", "Lateral Movement",
