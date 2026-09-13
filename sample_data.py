@@ -1,10 +1,4 @@
-"""
-sample_data.py
-Generates a realistic, reproducible synthetic dataset of SOC alerts spread
-across multiple hosts and a 7-day window, each pre-mapped to a MITRE ATT&CK
-technique with an IOC, host, severity and status. This stands in for what
-would normally be ingested from a SIEM (Splunk/Sentinel/Elastic) or EDR.
-"""
+
 import random
 import uuid
 from datetime import datetime, timedelta
