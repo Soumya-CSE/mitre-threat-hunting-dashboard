@@ -533,9 +533,13 @@ mitre-dashboard/
 
 <img width="1893" height="906" alt="Screenshot 2026-09-14 200258" src="https://github.com/user-attachments/assets/241259d8-3ede-4e26-bc32-1558307bec82" />
 
+---
+
 ### 🚨 Alert Queue
 
+<img width="1891" height="907" alt="Screenshot 2026-09-14 200502" src="https://github.com/user-attachments/assets/19e16ac0-4d04-4354-b0cb-4b1f26dad060" />
 
+<img width="1902" height="910" alt="Screenshot 2026-09-14 200328" src="https://github.com/user-attachments/assets/a322c0eb-7226-42e8-b00a-6505b2ba12d5" />
 
 ### 🔍 Investigation Workbench
 
