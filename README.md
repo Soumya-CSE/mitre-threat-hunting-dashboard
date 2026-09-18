@@ -421,55 +421,6 @@ This can be used to regenerate the sample environment.
 
 ---
 
-# 🖥️ Screenshots / Project Demo
-
-The following screenshots should be included in the GitHub README to demonstrate the major components of the dashboard.
-
-> 📌 Add your actual screenshots to a `screenshots/` folder in the repository and update the filenames below if necessary.
-
----
-
-## 📊 Dashboard
-
-The main SOC dashboard provides an overview of alert activity, severity, affected hosts, and observed MITRE ATT&CK techniques.
-
-![SOC Dashboard](screenshots/dashboard.png)
-
-**What this screenshot demonstrates:**
-
-* SOC KPIs
-* Open/critical alerts
-* Affected hosts
-* MITRE techniques
-* Alerts by tactic
-* Severity distribution
-* Recent alert activity
-
----
-
-## 🚨 Alert Queue
-
-The Alert Queue provides a searchable and filterable view of security alerts.
-
-![Alert Queue](screenshots/alert-queue.png)
-
-**What this screenshot demonstrates:**
-
-* Alert triage
-* Severity filtering
-* Status filtering
-* Host filtering
-* Alert search
-* Security event prioritization
-
----
-
-## 🔍 Investigation Workbench
-
-The Investigation page connects an alert with its IOC, MITRE technique, affected host, timeline, and recommended investigation actions.
-
-![Investigation Workbench](screenshots/investigation.png)
-
 **Investigation flow:**
 
 ```text
@@ -489,56 +440,6 @@ Investigation Checklist
 ```
 
 ---
-
-## 🎯 MITRE ATT&CK Matrix
-
-The ATT&CK Matrix visualizes observed techniques across different MITRE tactics.
-
-![MITRE ATT\&CK Matrix](screenshots/attack-matrix.png)
-
-**What this screenshot demonstrates:**
-
-* MITRE tactics
-* Observed techniques
-* Technique coverage
-* Technique lookup
-* ATT&CK-based threat hunting
-
----
-
-## 🕒 Security Timeline
-
-The Timeline page displays security events across hosts and time.
-
-![Security Timeline](screenshots/timeline.png)
-
-**What this screenshot demonstrates:**
-
-* Cross-host event correlation
-* Alert timing
-* Repeated activity
-* Multi-stage activity
-* Alert volume over time
-
----
-
-## 📝 Analyst Notes
-
-The analyst workbench allows investigation notes and alert status to be updated and stored.
-
-![Analyst Workbench](screenshots/analyst-notes.png)
-
-Example:
-
-```text
-Status:
-Investigating
-
-Analyst Notes:
-PowerShell executed with encoded command.
-Parent process appears suspicious.
-Need to investigate script hash and network connections.
-```
 
 ---
 
@@ -630,6 +531,7 @@ mitre-dashboard/
 
 <img width="1892" height="908" alt="Screenshot 2026-09-14 200232" src="https://github.com/user-attachments/assets/4898c4e7-44e8-4448-963a-9a6fffdada64" />
 
+<img width="1893" height="906" alt="Screenshot 2026-09-14 200258" src="https://github.com/user-attachments/assets/241259d8-3ede-4e26-bc32-1558307bec82" />
 
 ### 🚨 Alert Queue
 
