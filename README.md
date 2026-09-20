@@ -547,6 +547,7 @@ mitre-dashboard/
 
 <img width="1890" height="892" alt="Screenshot 2026-09-14 200705" src="https://github.com/user-attachments/assets/566e12db-0c7a-4cfc-8863-27b7a724d1fa" />
 
+<img width="1893" height="906" alt="Screenshot 2026-09-14 200722" src="https://github.com/user-attachments/assets/303cf43a-2026-4cbd-84f3-e0b006f73f85" />
 
 
 ### 🎯 MITRE ATT&CK Matrix
