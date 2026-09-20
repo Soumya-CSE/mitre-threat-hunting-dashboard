@@ -545,6 +545,7 @@ mitre-dashboard/
 
 <img width="1892" height="896" alt="Screenshot 2026-09-14 200629" src="https://github.com/user-attachments/assets/5ce258a8-879f-4e17-87bd-c8e663ca534d" />
 
+<img width="1890" height="892" alt="Screenshot 2026-09-14 200705" src="https://github.com/user-attachments/assets/566e12db-0c7a-4cfc-8863-27b7a724d1fa" />
 
 
 
