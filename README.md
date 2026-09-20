@@ -543,6 +543,10 @@ mitre-dashboard/
 
 ### 🔍 Investigation Workbench
 
+<img width="1892" height="896" alt="Screenshot 2026-09-14 200629" src="https://github.com/user-attachments/assets/5ce258a8-879f-4e17-87bd-c8e663ca534d" />
+
+
+
 
 ### 🎯 MITRE ATT&CK Matrix
 
