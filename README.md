@@ -541,6 +541,8 @@ mitre-dashboard/
 
 <img width="1902" height="910" alt="Screenshot 2026-09-14 200328" src="https://github.com/user-attachments/assets/a322c0eb-7226-42e8-b00a-6505b2ba12d5" />
 
+---
+
 ### 🔍 Investigation Workbench
 
 <img width="1892" height="896" alt="Screenshot 2026-09-14 200629" src="https://github.com/user-attachments/assets/5ce258a8-879f-4e17-87bd-c8e663ca534d" />
