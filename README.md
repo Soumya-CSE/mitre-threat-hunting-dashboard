@@ -559,6 +559,9 @@ mitre-dashboard/
 
 <img width="1885" height="896" alt="Screenshot 2026-09-14 200810" src="https://github.com/user-attachments/assets/13f92145-c189-4793-83e4-0dcf34e9806f" />
 
+<img width="1895" height="886" alt="Screenshot 2026-09-14 200847" src="https://github.com/user-attachments/assets/cc99ad90-da44-426e-8913-ef62546f27ea" />
+
+---
 
 ### 🕒 Security Timeline
 
