@@ -573,6 +573,8 @@ mitre-dashboard/
 
 ### 📝 Analyst Workbench
 
+<img width="1881" height="892" alt="Screenshot 2026-09-14 201020" src="https://github.com/user-attachments/assets/09077d32-0a2d-454a-970b-406457550935" />
+
 ---
 
 # ▶️ Running the Project
