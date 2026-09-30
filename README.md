@@ -172,7 +172,6 @@ For each selected alert, the analyst can view:
 * MITRE technique
 * MITRE tactic
 * Related alerts
-* Timeline context
 * Recommended investigation steps
 * Detection guidance
 * Mitigation guidance
