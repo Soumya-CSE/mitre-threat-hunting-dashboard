@@ -1015,3 +1015,10 @@ Response
 ```
 
 **Built as a practical SOC/Blue Team learning and portfolio project.**
+
+
+## ⭐ Support
+
+If you find this project interesting or useful, consider giving the repository a **star ⭐** on GitHub!
+
+*Built with Python, Streamlit, and a passion for smart home technology.*
