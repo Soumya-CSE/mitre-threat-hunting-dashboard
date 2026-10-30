@@ -974,7 +974,7 @@ Real-world deployment would require authentication, access control, secure data 
 
 # 👨‍💻 Author
 
-**Soumya Hazra**
+**Soumya Kanti Hazra**
 
 B.Tech Computer Science & Engineering
 
